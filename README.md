@@ -22,41 +22,38 @@ Since it can be assumed that the new studio head will be judged by how profitabl
 
 ## Results
 
-Q. What attributes are the most correlated with gross profit?
 
-### Visual 1
+### What attributes are the most correlated with gross profit?
 ![graph1](./images/corr_viz.png)
 
-Q. What does the relationship between production budget and profit look like?
 
-### Visual 2
+### What does the relationship between production budget and profit look like?
 ![graph2](./images/scatter_viz.png)
 
-ROI?
 
-### Visual 3
+
+### What about budget versus ROI?
 ![graph3](./images/scatter_viz2.png)
 
 
-Q. Are Profits Impacted By Release Month?
 
-### Visual 4
+
+### Are Profits Impacted By Release Month?
 ![graph4](./images/bar_viz.png)
 
 
-Q. What genres should be prioritized?
 
-### Visual 5
+### What genres should be prioritized?
 ![graph5](./images/bar_viz2.png)
 
-Should certain genres be released at different times of the year?
 
-### Visual 6
+
+### Should certain genres be released at different times of the year?
 ![graph6](./images/stacked_viz.png)
 
 Q. Who are the key film crew members behind the top box office hits?
 
-### Visual 7
+### Who are the key film crew members behind the top box office hits?
 ![table1](./images/top_dir.png)
 
 
