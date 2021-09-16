@@ -79,7 +79,7 @@ Of course this project is an exploratory data analysis and a much deeper review 
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./student.ipynb) or our [presentation](./Phase 1 Project 20210916.pdf).
+Please review the full analysis in [our Jupyter Notebook](./student.ipynb) or the [presentation](./Phase_1_Project.pdf).
 
 For any additional questions, please contact **Robert Cauvy & rcauvy@gmail.com**
 
