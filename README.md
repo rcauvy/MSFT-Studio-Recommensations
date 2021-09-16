@@ -23,39 +23,44 @@ Since it can be assumed that the new studio head will be judged by how profitabl
 ## Results
 
 
-### What attributes are the most correlated with gross profit?
+### What attributes are the most correlated with profit?
 ![graph1](./images/corr_viz.png)
-
+Worldwide Gross Revenue is the most positively correlated trait to Profits
 
 ### What does the relationship between production budget and profit look like?
 ![graph2](./images/scatter_viz.png)
-
+Movies with budgets over $75m are successful 91%
+Budgets under $50m are only successful 51% of the time
 
 
 ### What about budget versus ROI?
 ![graph3](./images/scatter_viz2.png)
-
+Small budget films can produce enormous returns
 
 
 
 ### Are Profits Impacted By Release Month?
 ![graph4](./images/bar_viz.png)
-
+May, June, July and November are the months that earn the most
+March, April, October and December are crowded with releases.
 
 
 ### What genres should be prioritized?
 ![graph5](./images/bar_viz2.png)
-
+Animation, Family and Comedy should be the overall highest priority
+Action, Adventure, Sci-Fi and Fantasy should be the the next highest priorty based on average profits
+Lastly, Mystery, Horror, Thriller and Romance should be the next priorty because of the return on investment that can provide for small budget project.
 
 
 ### Should certain genres be released at different times of the year?
 ![graph6](./images/stacked_viz.png)
+No actionable insights can be taken
 
 Q. Who are the key film crew members behind the top box office hits?
 
 ### Who are the key film crew members behind the top box office hits?
 ![table1](./images/top_dir.png)
-
+These are the top directors we should be meeting with for our respective priority genres
 
 ## Conclusions
 
